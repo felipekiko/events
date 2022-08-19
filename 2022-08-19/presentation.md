@@ -9,20 +9,23 @@ backgroundImage: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/
 backgroundPosition: 0 100%
 backgroundSize: 100px
 ---
-<style scoped>{ background-color: yellow }</style>
+
 <!-- _backgroundImage: None -->
-![bg left:40% 80%](https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif)
+![bg left:30% 80%](https://www.alura.com.br/artigos/assets/python-uma-introducao-a-linguagem/imagem1.gif)
 
 <style scoped>
-    a { display: block; margin-top: 200px; font-size: 20pt }
+    a { display: block; margin-top: 40px; font-size: 26pt }
 </style>
 
-# **NOME DO EVENTO**
+### **Semana da Engenharia**
+#### **XVI Edição**
 
-Introdução Python
+<br />
+
+### Introdução ao Python
 
 [
-    Local
+    UNESP - Sorocaba
     19/08/2022
 ](#)
 
@@ -165,10 +168,10 @@ Maior igual: a >= b
 - [Danki Code | Listas, Tuplas, Dicionários](https://www.youtube.com/watch?v=0zYuLLIzPIQ)
 
 ---
-<style scoped>{ background-color: yellow }</style>
+
 # Obrigado!
 
 <br /><br /><br /><br />
 
 ![h:90px](https://i.pinimg.com/originals/00/60/40/0060402b31aceeb2cff416180abecb81.png)
-**@marcio? | @felipekiko**
+**Marcio Cavalcante | Felipe KiKo**
