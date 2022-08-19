@@ -4,7 +4,7 @@ print(type(pokemons))
 print(len(pokemons))
 
 # POSITION - QUIZ TIME!
-print(pokemons[2])
+# print(pokemons[2])
 
 # VALUE TYPE - QUIZ TIME!
 # pokemons = ['pikachu', 150, 2.14, False]
