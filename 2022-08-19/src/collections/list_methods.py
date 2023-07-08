@@ -12,9 +12,7 @@ pokemons = ['pikachu', 'eevee', 'charmander', ]
 # pokemons.insert(3, 'bulbasaur')
 # print(pokemons)
 
-# REMOVE
-# pokemons.remove('charmander')
-# print(pokemons)
+
 
 # REMOVE - QUIZ TIME!
 # pokemons.append('charmander')
