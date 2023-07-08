@@ -1,3 +1,3 @@
 # Events
 
-Share the codes and presentations that I used!
+Share the codes and presentations!
