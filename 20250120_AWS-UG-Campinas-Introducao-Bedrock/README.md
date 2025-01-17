@@ -1,4 +1,4 @@
-# AWS User Group Angola: Amazon Bedrock: Primeiros passos com Generative AI (Agosto/ 2024)
+# AWS User Group Campinas: Amazon Bedrock: Primeiros passos com Generative AI (Janeiro/ 2025)
 
 ## Etapas da Demonstração
 
