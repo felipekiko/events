@@ -95,6 +95,9 @@ Time usa:
 - Alguns módulos
 - Minimamente um CI/CD
 - Documentação
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
@@ -124,6 +127,7 @@ Algumas coisas começam a acontecer:
 - Inconsistência entre serviços
 - Onboarding lento
 &nbsp;
+&nbsp;
 
 Desenvolvedores passam mais tempo **lutando contra infra** do que entregando produto e valor 😢
 
@@ -138,6 +142,8 @@ Terraform é **excelente** para:
 - Automação
 - Padronização
 &nbsp;
+&nbsp;
+&nbsp;
 
 Mas ele é uma **ferramenta de plataforma**, não necessariamente uma **interface de desenvolvedor**
 
@@ -147,6 +153,7 @@ Mas ele é uma **ferramenta de plataforma**, não necessariamente uma **interfac
 &nbsp;
 
 Em vez de cada time operar a infra, criamos uma **plataforma interna**!
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -165,6 +172,10 @@ Times de plataforma oferecem:
 - APIs internas
 - Automação, automação, automação...
 - Padrões (com documentações claras e de fácil acesso)
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
@@ -183,6 +194,7 @@ O dev usa algo como:
 platform create-service
 ```
 ...*PLIM!* Serviço criado! 😎
+&nbsp;
 
 ---
 
@@ -197,6 +209,9 @@ O desenvolvedor não precisa lidar diretamente com:
 - Providers
 - State
 - Detalhes de permissão (IAM)
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 
@@ -227,6 +242,7 @@ Boa plataforma gera:
 - Padrões consistentes
 &nbsp;
 &nbsp;
+&nbsp;
 
 Mais autonomia para devs 🥰 ...deixa eles **focarem no que é realmente importante**!
 
@@ -240,6 +256,8 @@ Plataforma não é:
 ❌ Time que controla tudo  
 ❌ Portal cheio de burocracia  
 ❌ O time que vira gargalo
+&nbsp;
+&nbsp;
 &nbsp;
 
 Plataforma precisa ser **self-service**!
@@ -255,6 +273,10 @@ A jornada geralmente é:
 1. Terraform
 1. Módulos Terraform
 1. Plataforma interna
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 ---
 &nbsp;
