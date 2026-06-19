@@ -22,8 +22,3 @@
 - AWS Builder ID: https://profile.aws.amazon.com/
 - Workshop: https://catalog.workshops.aws/workshops/de3c344e-5cee-48a9-84e9-0292b7708734/
 - IA jogando Flappy Bird: https://www.youtube.com/watch?v=vavXvu_SMeM
-
-## To Do
-- Commit no meu repositorio
-- Adicionar no portifolio
-- QR Code Inial para a galera
