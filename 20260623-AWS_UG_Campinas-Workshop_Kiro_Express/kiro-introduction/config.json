@@ -1,0 +1,38 @@
+{
+  "canvas": {
+    "width": 400,
+    "height": 600
+  },
+  "scoreBar": {
+    "height": 40
+  },
+  "ghost": {
+    "startXFraction": 0.25,
+    "gravity": 980,
+    "maxFallSpeed": 500,
+    "jumpVelocity": -300,
+    "maxRotationUp": -30,
+    "maxRotationDown": 30
+  },
+  "pipes": {
+    "width": 50,
+    "capWidth": 60,
+    "capHeight": 20,
+    "horizontalSpacing": 220,
+    "speed": 150,
+    "minPipeLength": 50,
+    "gapMultiplierMin": 3,
+    "gapMultiplierMax": 4
+  },
+  "clouds": {
+    "count": 5,
+    "minSpeedFraction": 0.10,
+    "maxSpeedFraction": 0.50,
+    "minOpacity": 0.3,
+    "maxOpacity": 0.7
+  },
+  "timing": {
+    "maxDeltaTime": 0.25,
+    "gameOverCooldown": 500
+  }
+}
