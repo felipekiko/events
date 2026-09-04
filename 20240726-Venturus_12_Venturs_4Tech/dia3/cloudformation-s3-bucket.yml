@@ -1,0 +1,14 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Template CloudFormation para criar um bucket S3
+
+Resources:
+  S3Bucket:
+    Type: 'AWS::S3::Bucket'
+    Properties:
+      BucketName: !Sub 'meu-bucket-s3-kiko-${AWS::AccountId}-venturus4tech'
+      AccessControl: Private
+
+Outputs:
+  BucketName:
+    Description: 'Nome do bucket S3'
+    Value: !Ref S3Bucket
